@@ -19,7 +19,7 @@ npm run dev
 
 **Credentials for login:**
 
-Username: user
+Username: user<br>
 Password: password
 
 **To run the test:**
